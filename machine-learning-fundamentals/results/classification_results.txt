@@ -1,0 +1,40 @@
+--- LOGISTIC REGRESSION ---
+Accuracy: 1.0000
+Precision (macro): 1.0000
+Recall (macro): 1.0000
+F1-score (macro): 1.0000
+Confusion matrix (rows: actual class; columns: predicted class):
+[[10  0  0]
+ [ 0  9  0]
+ [ 0  0 11]]
+Classification report:
+              precision    recall  f1-score   support
+
+      setosa       1.00      1.00      1.00        10
+  versicolor       1.00      1.00      1.00         9
+   virginica       1.00      1.00      1.00        11
+
+    accuracy                           1.00        30
+   macro avg       1.00      1.00      1.00        30
+weighted avg       1.00      1.00      1.00        30
+
+--- DECISION TREE CLASSIFIER ---
+Accuracy: 1.0000
+Precision (macro): 1.0000
+Recall (macro): 1.0000
+F1-score (macro): 1.0000
+Confusion matrix (rows: actual class; columns: predicted class):
+[[10  0  0]
+ [ 0  9  0]
+ [ 0  0 11]]
+Classification report:
+              precision    recall  f1-score   support
+
+      setosa       1.00      1.00      1.00        10
+  versicolor       1.00      1.00      1.00         9
+   virginica       1.00      1.00      1.00        11
+
+    accuracy                           1.00        30
+   macro avg       1.00      1.00      1.00        30
+weighted avg       1.00      1.00      1.00        30
+
